@@ -6,7 +6,7 @@ Repository where all certificates of completed courses and trainings, awards and
 + ["Поколение Python": курс для начинающих](./Stepik/stepik_python_beginner.pdf)
 
 ## EdEra
-+ ['Сертификация от EdEra и "Освіторія" - "Бери та роби"'](./EdEra/EdEra.pdf)
++ [Сертификация от EdEra и "Освіторія" - "Бери та роби"](./EdEra/EdEra.pdf)
 
 ### Unext
 + [Награда в номинации "Прорыв года"](./Unext/unext_award.pdf)
